@@ -1,0 +1,40 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <link rel="stylesheet" href="./style.css">
+    <meta name="description" content="Belajar tentang Json server Auth"/>
+    <meta name="og:title" content="Login Sistem"/>
+    <meta name="og:description" content="Belajar tentang Json server Auth"/>
+    <meta name="og:image" content="https://picsum.photos/seed/350"/>
+    <meta name="og:url" content="https://agusankle.surge.sh">
+    <title>Login System</title>
+</head>
+<body onload="loginChecker()">
+    <main class="app" id="app">
+        <form action="" class="login_form" id="login_form"
+        onsubmit ="login(event)">
+
+            <h3 class="login_form_title">Login</h3>
+            
+            <div class="form_group">
+                <label for="email">Email</label>
+                <input type="email" id="email" required>
+            </div>
+
+            <div class="form_group">
+                <label for="password">Password</label>
+                <input type="password" id="password" required>
+            </div>
+            <button class="login_form_button">login</button>
+            <small>
+                Belum punya akun?  <a href="register.html" >Register</a>
+            </small>
+        </form>
+    </main>
+
+    <script src="./main.js"></script>
+</body>
+</html>

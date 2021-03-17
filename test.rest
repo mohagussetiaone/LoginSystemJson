@@ -1,0 +1,17 @@
+###
+POST http://localhost:3000/register
+Content-Type: application/json
+
+{
+    "email" : "mohagussetiaone@gmail.com",
+    "password" : "A6u5I5NeX"
+}
+
+###
+POST http://localhost:3000/login
+Content-Type: application/json
+
+{
+    "email" : "mohagussetiaone@gmail.com",
+    "password" : "A6u5I5NeX"
+}

@@ -1,0 +1,24 @@
+{
+  "users": [
+    {
+      "email": "mohagussetiaone@gmail.com",
+      "password": "$2a$10$ZRCK01Rcf3SrZ34PVE2VEenPHrcfkHlYMm8Dr7GC8QcxJRlrHwb6i",
+      "id": 1
+    },
+    {
+      "email": "agussetiaone234@gmail.com",
+      "password": "$2a$10$VcKs0Dy0aqgLpTeUJTHdLOVfPQ5CRAzgdUVURdu5YTKaa3RfzN.te",
+      "id": 2
+    },
+    {
+      "email": "agusankle@gmail.com",
+      "password": "$2a$10$LDuqfTACoKovmCUBVZpFw.ZQV77sbblhBP/39vpy8s95YdOrcs4yy",
+      "id": 3
+    },
+    {
+      "email": "dinda@gmail.com",
+      "password": "$2a$10$1J/hMKDCaa0bMGn1QRYaIub8sbTpcc.UcCbkpabA7rSewCF8fBzza",
+      "id": 4
+    }
+  ]
+}
